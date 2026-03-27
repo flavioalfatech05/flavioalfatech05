@@ -42,7 +42,7 @@
 
 ---
 
-## 🐍 Contribuições animadas
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/flavioalfatech05/flavioalfatech05/blob/output/github-contribution-grid-snake.svg" />
